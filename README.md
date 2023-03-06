@@ -1,3 +1,27 @@
+# RAP_DEMO_01
+RAP-Tutorial 01: https://github.com/miltonchandradas/rapdemo
+
+RAP-Tutorial
+
+https://www.youtube.com/watch?v=m1VmXo0HHkY&t=23s
+https://github.com/miltonchandradas/rapdemo
+
+Objekte im VID-200
+
+0. Package 									    ZJM_DEMO_JM1
+1. Tabelle 							    		zrap_uxteam_5551
+2. Interface View 							ZI_UXTEAM_5551
+3. Consumption View 						ZC_UXTEAM_5551
+4. Metadata extension						ZC_UXTEAM_5551
+5. Business Object							The Interface View is already marked as root
+											          The Consumption View is already marked as root
+6. Behavior Definitions definieren 
+	 Behavior Definition für InterfaceView	ZI_UXTEAM_5551(managed)
+7. Behavior Definitions implementieren 		zbp_i_uxteam_5551
+8. Behavior Projections definieren  			ZC_UXTEAM_5551
+9. Service Definition		          				Z_EXPOSE_UXTEAM_5551
+10. Service Binding							          ZUI_UXTEAM_V2_5551
+
 ## Application Details
 |               |
 | ------------- |
